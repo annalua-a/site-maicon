@@ -35,3 +35,15 @@ th {
 td:first-child {
     font-weight: bold;
 }
+
+@media (max-width: 600px) {
+    table {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    th,
+    td {
+        padding: 8px;
+    }
+}
