@@ -22,9 +22,8 @@ table {
     overflow: hidden;
 }
 
-th,
-td {
-    border: 1px solid #ccc;
+th, td {
+    border: 2px solid #3352db;
     padding: 10px;
     text-align: left;
 }
